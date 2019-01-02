@@ -8,7 +8,7 @@
 	define('RUTA_APP', dirname(dirname( __FILE__)));
 	
 	//Ruta de la URL	
-	define('RUTA_URL', 'http://localhost:8080/proyectos/mvc');
+	define('RUTA_URL', 'http://localhost/proyectos/mvc');
 
 	//
 	define('NOMBRESITIO', 'MVC');
