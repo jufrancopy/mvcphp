@@ -10,7 +10,7 @@
 	//Ruta de la URL	
 	define('RUTA_URL', 'http://localhost/proyectos/mvc');
 
-	//
+	//Nombre del Sitio
 	define('NOMBRESITIO', 'MVC');
 
 ?>
